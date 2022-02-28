@@ -1,0 +1,22 @@
+{
+  "name": "my_cypress_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.1.0",
+    "cypress": "^9.2.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "mochawesome-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "mochawesome-report-generator": "^6.0.1"
+  }
+}
